@@ -1,2 +1,2 @@
 # Plagiarisim-detection
-part of machine learning engineer nanodegree
+part of machine learning engineer nanodegree udacity
